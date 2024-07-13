@@ -1,5 +1,5 @@
-d# MoviesAPI
-REST API Developed using Spring Boot With MongoDB Database support. (Java Project) for Practice Skills.
+# MoviesAPI
+A RESTful API developed using Spring Boot, providing access to movie-related data and leveraging MongoDB as its database management system. This Java-based project serves as a platform for practicing and refining skills in building scalable and efficient RESTful APIs.
 
 
 # Getting Started
